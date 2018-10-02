@@ -17,6 +17,9 @@
  height: 100px;
 }
 
+.cen { 
+  text-align: center;
+}
 .section-heading {
   color:#452768;
   padding-top: 50px;
